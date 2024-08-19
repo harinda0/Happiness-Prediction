@@ -1,7 +1,7 @@
 # Happiness Prediction in Cities
 
 ## Overview
-This repository contains the final project, which focuses on predicting happiness levels within cities using the Happy_Dataset. The analysis compares the performance of Naive Bayes, Logistic Regression, and Neural Networks, providing insights into the factors that contribute to happiness and the effectiveness of different predictive models.
+This repository contains a project, which focuses on predicting happiness levels within cities using the Happy_Dataset. The analysis compares the performance of Naive Bayes, Logistic Regression, and Neural Networks, providing insights into the factors that contribute to happiness and the effectiveness of different predictive models.
 
 ## Key Insights
 - Prediction of city happiness using multiple machine learning models.
